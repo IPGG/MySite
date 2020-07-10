@@ -1,0 +1,59 @@
+.logoIm {
+  width: 35px;
+  height: 35px;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+#BrandName {
+  padding-left: 10px;
+  font-size: 22px;
+  color: white;
+}
+
+#HeaderNavbar {
+  background-color: #1B262C;
+}
+
+#navbarContent {
+  position: absolute;
+  right: 10px;
+}
+
+#aboutButton {
+  color: white;
+  font-size: 22px;
+}
+
+#aboutButton:hover {
+  color: #F2A365;
+}
+
+#workButton {
+  color: white;
+  font-size: 22px;
+}
+
+#workButton:hover {
+  color: #F2A365;
+}
+
+#navbarDropdown {
+  color: white;
+  font-size: 22px;
+}
+
+#navbarDropdown:hover {
+  color: #F2A365;
+}
+
+#contactButton {
+  color: white;
+  font-size: 22px;
+}
+
+#contactButton:hover {
+  color: #F2A365;
+}
